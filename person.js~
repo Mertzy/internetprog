@@ -1,0 +1,12 @@
+/*Using the example from class (now available on github) create a Person class with the following:
+
+1. private instance variables for ssn and weight
+2. public instance variables for age and name
+3. public methods called gainWeight(lbs), getSSN(), and getWeight()
+4. Add a prototype method called birthday() that adds one to the age and returns the age after incrementing.
+
+*/
+
+
+Person = function() {
+

@@ -1,0 +1,26 @@
+#A description
+#priority: low, medium, high
+#due date
+#what project
+
+
+todo:
+	item: math assignment
+	priority: high
+	due: tomorrow
+	project: school
+
+	item: running
+	priority: medium
+	due: today
+	project: exercise
+	
+	item: computer program
+	priority: high
+	due: today
+	project: school
+
+	item: buy shoes
+	priority: low
+	due: Friday
+	project: personal

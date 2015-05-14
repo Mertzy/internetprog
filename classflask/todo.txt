@@ -1,0 +1,4 @@
+class
+school
+work
+lift

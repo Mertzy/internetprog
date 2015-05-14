@@ -1,0 +1,14 @@
+School:
+   Multi HW: 5
+   Comp Sci HW: 6
+   Discrete HW: 7
+
+Room:
+   Clean: 4
+   Organize: 5
+   Sweep: 6
+
+Exercise:
+   Run: 4
+   Lift: 5
+   Sprint: 6

@@ -1,0 +1,38 @@
+from flask import Flask, render_template, request, session, render_template
+app = Flask(__name__)
+app.debug=True
+
+
+
+
+class MyApp:
+
+    def __init__ (self):
+        
+        self.stuff = ""
+
+    def vowels(self, input, environ, start_response):
+
+        worker = "All the vowels are " + input
+        data = bytes(worker, 'utf-8')
+        start_response(
+
+    def graduate(self, value):
+
+        changer = ""
+
+
+        
+        
+
+
+
+
+
+app = MyApp()
+
+@app.route('/<str:inputVowels>')
+app.vowels(inputVowels)
+
+@app.route('/<str:inputValues>')
+app.

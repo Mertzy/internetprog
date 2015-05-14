@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Todo List</title>
+  </head>
+  
+  <body>
+    <u1>
+    {% for task in todolist %}
+       <li> {{ task }} </li>
+    {% endfor %}
+       </u1>
+
+    </body>
+
+</html>
